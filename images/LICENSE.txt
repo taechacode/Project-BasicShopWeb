@@ -1,3 +1,9 @@
 shop.png
 └ source : https://www.nicepng.com/ourpic/u2t4o0y3w7u2w7q8_online-shopping-for-gifts-mulboo-online-shop-clipart/
 
+computer.jpg
+└ source : https://www.freeimages.com/kr/photo/computer-1242700
+
+notebook.jpg
+└ source : https://www.freeimages.com/kr/photo/notebook-2-1240405
+
