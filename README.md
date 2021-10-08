@@ -1,4 +1,4 @@
-﻿﻿﻿# 프로젝트 BasicWebShop
+# 프로젝트 BasicWebShop
 
 HTML과 CSS를 사용한 기초적인 웹 쇼핑몰 제작 프로젝트(개인)입니다.   
 [HTML5+CSS3+JavaScript로 배우는 웹프로그래밍 기초] 도서를 참고하여 제작하였습니다.    
