@@ -1,4 +1,4 @@
-﻿# 프로젝트 BasicWebShop
+﻿﻿﻿# 프로젝트 BasicWebShop
 
 HTML과 CSS를 사용한 기초적인 웹 쇼핑몰 제작 프로젝트(개인)입니다.   
 [HTML5+CSS3+JavaScript로 배우는 웹프로그래밍 기초] 도서를 참고하여 제작하였습니다.    
@@ -31,5 +31,15 @@ HTML과 CSS를 사용한 기초적인 웹 쇼핑몰 제작 프로젝트(개인)�
 2. [images] 폴더에 computer.jpg 파일과 notebook.jpg 파일 추가   
 3. [images] 폴더의 LICENSE.txt 파일에 2에서 추가한 파일의 출처 정보 추가   
 4. index.html 파일의 section d=”main” 하위 태그인 iframe의 너비를 440에서 500으로 수정   
+<br/>
+
+- 2021년 10월 9일
+1. music.html 파일 생성 및 레이아웃 내용 추가   
+2. movie.html 파일 생성 및 레이아웃 내용 추가   
+3. shopcart.html 파일 생성 및 레이아웃 내용 추가   
+4. [audio] 폴더에 Living Wild.mp3 파일 추가   
+5. [audio] 폴더의 LICENSE.txt 파일에 5에서 추가할 파일의 출처 정보 추가   
+6. [video] 폴더에 movie.mp4 파일 추가   
+7. [video] 폴더의 LICENSE.txt 파일에 7에서 추가할 파일의 출처 정보 추가   
 <br/>
 
