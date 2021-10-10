@@ -1,8 +1,8 @@
-# 프로젝트 BasicWebShop
+﻿# 프로젝트 BasicWebShop
 
 HTML과 CSS를 사용한 기초적인 웹 쇼핑몰 제작 프로젝트(개인)입니다.   
 [HTML5+CSS3+JavaScript로 배우는 웹프로그래밍 기초] 도서를 참고하여 제작하였습니다.    
-
+<br/>
 
 
 ## 업데이트 이력
@@ -41,5 +41,11 @@ HTML과 CSS를 사용한 기초적인 웹 쇼핑몰 제작 프로젝트(개인)�
 5. [audio] 폴더의 LICENSE.txt 파일에 5에서 추가할 파일의 출처 정보 추가   
 6. [video] 폴더에 movie.mp4 파일 추가   
 7. [video] 폴더의 LICENSE.txt 파일에 7에서 추가할 파일의 출처 정보 추가   
+<br/>
+
+- 2021년 10월 10일
+1. mystyle.css 파일 생성   
+2. [images] 폴더에 index.html-footer에 들어갈 패턴 이미지 추가    
+3. 새로 추가한 패턴 이미지의 저작권 정보를 [images] 폴더의 LICENSE.txt에 추가   
 <br/>
 
